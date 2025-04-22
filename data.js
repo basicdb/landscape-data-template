@@ -3,7 +3,7 @@ import { LandscapeSchema } from '@localfirstfm/landscape-schema'
 
 export const data = LandscapeSchema.make({
 	Version: 1,
-	Id: 'Basic',
+	Id: 'basic',
 	Name: 'Basic.tech',
 	Description: 'Infra for building personalized, multiplayer, local-first apps where users own their data',
 	Website: 'https://basic.tech',
